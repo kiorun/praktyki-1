@@ -17,6 +17,9 @@ public class uczen {
             this.imie = imie;
                 this.wiek = wiek;
                 this.nazwisko = nazwisko;
+            System.out.println(imie);
+            System.out.println(nazwisko);
+            System.out.println(wiek +"lat");
         }
 
 }

@@ -6,36 +6,37 @@ public class Matma {
 
     static double Pi = 3.14;
     static double E = 2.71;
-    static double C = 2.71;
-    static void inc(double Pi,double E) {
-        Pi=   Math.pow(Pi, 3);
-      E= Math.pow(E, 3);
-        System.out.println(Pi);
-        System.out.println(E);
-        return;
-    }
+  public static double potega(double x){
+      double y=  Math.pow(x, 3);
+      return y;
+  }
 
-    static void nahh(double Pi,double E) {
-        double suma = Pi + E;
-        double roz = Pi - E;
-        double ilo = Pi* E;
-        System.out.println(" suma równa się :");
-        System.out.println(suma);
-        System.out.println(" różnicę równa się :");
-        System.out.println(roz);
-        System.out.println(" iloczyn równa się :");
-        System.out.println(ilo);
+  public static double dodaj(double x, double y){
+      double z =x +y;
+      return z;
+
+  }
+    public static double oddaj(double x, double y){
+        double z =x -y;
+        return z;
+
     }
-    static void troj(double Pi,double E,double C){
-    if (Pi+E>=C)System.out.println("true");
-    else if(E+C>Pi)System.out.println("true");
-    else if(C+Pi>E)System.out.println("true");
-    else  System.out.println("false");
+    public static double rozna(double x, double y){
+        double z =x *y;
+        return z;
+
+    }
+    public  static boolean troj(double a, double b, double z){
+      boolean ehh=false;
+      if((z*z==(a*a)+(b*b))||(a*a==(z*z)+(b*b))||(b*b==(a*a)+(z*z))){
+          ehh=true;
         }
+    return ehh;
+  }
 
 
 
-    }
+}
 
 
 
