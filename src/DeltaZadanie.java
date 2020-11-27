@@ -8,7 +8,8 @@ public class DeltaZadanie {
             double c;
 
             Scanner scan =new Scanner(System.in);
-
+            System.out.println((char)27+"[01;30m;This text is red."+(char)27+"[00;00m");
+            System.out.println((char)27+"[01;37m;This text is green."+(char)27+"[00;00m");
                     System.out.println("podaj a=");
                             a=scan.nextDouble();
                     System.out.println("podaj b=");

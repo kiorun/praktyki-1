@@ -20,10 +20,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d444bd5-25fa-4acf-9bdb-90dd12e5e966" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cwiczenia/Humaninterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadania1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KOlor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Projektzwierzak/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Projektzwierzak/Plasmatookgra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Projektzwierzak/kiomon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cwiczenia/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cwiczenia/dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cwiczenia/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cwiczenia/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/DeltaZadanie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/DeltaZadanie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/cwiczenia/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/cwiczenia/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/cwiczenia/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/cwiczenia/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/cwiczenia/Mechanic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/cwiczenia/Mechanic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/cwiczenia/Uczen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/cwiczenia/Uczen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/cwiczenia/Wykladowca.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/cwiczenia/Wykladowca.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/kwiat/Kwiatek.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/kwiat/Kwiatek.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/kwiat/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/kwiat/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/zadania1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/zadania1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/zadania1/Matma.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/zadania1/Matma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled104/zadania1/uczen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/zadania1/uczen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DeltaZadanie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DeltaZadanie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cwiczenia/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cwiczenia/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +50,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="autoscrollToSource" value="true" />
   </component>
   <component name="ProjectId" id="1jb9jm0k7Rd1f9u2AduGFgZYxIj" />
   <component name="ProjectLevelVcsManager">
@@ -56,27 +76,29 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="Firma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zadania1.Firma" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="DeltaZadanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeltaZadanie" />
       <module name="untitled104" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kwiat.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cwiczenia.Main" />
+    <configuration name="KOlor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KOlor" />
+      <module name="untitled104" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projektzwierzak.Main" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cwiczenia.*" />
+          <option name="PATTERN" value="Projektzwierzak.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,7 +111,7 @@
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kwiat.*" />
+          <option name="PATTERN" value="zadania1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,25 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kwiat.main" />
+    <configuration name="Plasmatookgra" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projektzwierzak.Plasmatookgra" />
       <module name="untitled104" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kwiat.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="uczen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zadania1.uczen" />
-      <module name="untitled104" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kwiat.*" />
+          <option name="PATTERN" value="Projektzwierzak.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Plasmatookgra" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Firma" />
-        <item itemvalue="Application.uczen" />
+        <item itemvalue="Application.KOlor" />
+        <item itemvalue="Application.DeltaZadanie" />
       </list>
     </recent_temporary>
   </component>
@@ -168,38 +177,43 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="419" y="176" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604063901936" />
-    <state x="2430" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1605087596013">
-      <screen x="1920" y="0" width="1280" height="984" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1605721625744">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604928068073" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605721625744" />
     <state x="2430" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1605087596013" />
     <state x="694" y="347" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1604063896990">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="694" y="347" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604063896990" />
-    <state x="743" y="410" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1605022376217">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2415" y="388" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1605271082061">
+      <screen x="1920" y="0" width="1280" height="984" />
     </state>
     <state x="743" y="410" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605022376217" />
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1605022503669">
+    <state x="2415" y="388" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1605271082061" />
+    <state x="707" y="375" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605721610024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605022503669" />
+    <state x="707" y="375" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605721610024" />
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom" timestamp="1605908627884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605908627884" />
     <state width="1237" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1604671044674" />
-    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1605022503669">
+    <state width="1877" height="2" key="GridCell.Tab.0.center" timestamp="1605908627884">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605022503669" />
+    <state width="1877" height="2" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605908627884" />
     <state width="1237" height="262" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1604671044674" />
-    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1605022503669">
+    <state width="1877" height="2" key="GridCell.Tab.0.left" timestamp="1605908627884">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605022503669" />
+    <state width="1877" height="2" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605908627884" />
     <state width="1237" height="262" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1604671044674" />
-    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1605022503669">
+    <state width="1877" height="2" key="GridCell.Tab.0.right" timestamp="1605908627884">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605022503669" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605908627884" />
     <state width="1237" height="262" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1604671044674" />
     <state x="4" y="0" width="1893" height="1027" key="dock-window-1" timestamp="1604613969586">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -209,10 +223,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="551" y="140" key="new project wizard/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604611544597" />
-    <state x="633" y="241" width="672" height="678" key="search.everywhere.popup" timestamp="1604927593699">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1605864888045">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="633" y="241" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604927593699" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605864888045" />
+    <state x="633" y="241" width="672" height="678" key="search.everywhere.popup" timestamp="1605822676109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="633" y="241" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605822676109" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/untitled$DeltaZadanie.ic" NAME="DeltaZadanie Coverage Results" MODIFIED="1604239980570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
